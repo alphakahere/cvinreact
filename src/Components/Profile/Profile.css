@@ -1,0 +1,32 @@
+.lef-area{
+    background-color: #3399ff;
+  }
+  
+  .lef-area .card{
+    background-color: #3399ff;
+    color: #FFF;
+  }
+  
+  .lef-area img{
+    border-radius: 50%;
+    width: 200px;
+  }
+  
+  .lef-area hr{
+    background-color: #000;
+    height: 1px;
+    margin: 3vh 0;
+  }
+  .lef-area i{
+    font-size: 30px;
+    position: relative;
+    top: .2em;
+  }
+  .lef-area h6 span{
+    font-size: 15px;
+    font-weight: normal;
+  }
+  .lef-area .technicalSkills span.text{
+    position: relative;
+    top: .2em;
+  }
